@@ -2,7 +2,7 @@
 
 An AI-powered web app that lets you generate **chat responses**, **images**, **voice audio**, and **video prompts**
 
-> 🌐 Live Demo: [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+> 🌐 Live Demo: https://everything-ai-website.vercel.app
 
 ---
 
