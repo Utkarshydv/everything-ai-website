@@ -1,4 +1,4 @@
-# 🎨 AI Media Generator
+#  AI Media Generator and Chat
 
 An AI-powered web app that lets you generate **chat responses**, **images**, **voice audio**, and **video prompts**
 
@@ -24,7 +24,7 @@ by Utkarsh
 ---
 ## License 
 
-MIT
+[MIT](LICENSE)
 
 
 
